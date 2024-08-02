@@ -1,0 +1,18 @@
+What is concurrency??
+
+ - Concurrency means multiple things happening "at the same time" or "In parrallel"
+
+   Let me explain this topic with the help of real world example:
+
+        A Busy Restaurant
+
+        Multiple tasks: Taking orders, cooking food, serving customers, managing the cash register.
+
+        Concurrency: The kitchen staff can be preparing multiple dishes simultaneously, while the waitstaff attends to different customers.
+
+    In concurrency we disscuus following topics:
+    
+    1. Callback 
+    2. Promises
+    3. asyn/await
+    4. Event loop
