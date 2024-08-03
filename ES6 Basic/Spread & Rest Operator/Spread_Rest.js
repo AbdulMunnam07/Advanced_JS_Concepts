@@ -1,6 +1,6 @@
 // Spread and Rest
 
-// Spread start with ...
+// Spread start with (...)
 
 arr1 = [1,2,5,5]
 arr2 = [4,73,1,7]
