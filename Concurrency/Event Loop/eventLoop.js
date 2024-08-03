@@ -25,18 +25,18 @@ JS execute code line by line but when it find a function that will take some tim
 */
 
 
-// function func1(name) {
-//     console.log("Function start.............");
+function func1(name) {
+    console.log("Function start.............");
     
-//     setTimeout(() => {
-//         console.log("Sorry I'm late");
+    setTimeout(() => {
+        console.log("Sorry I'm late");
         
-//     }, 2000);
-//     console.log(`My name is ${name}`);
-//     console.log("Function End...............");
-// }
+    }, 2000);
+    console.log(`My name is ${name}`);
+    console.log("Function End...............");
+}
 
-// func1("Abdul Munnam")
+func1("Abdul Munnam")
 
 
 
